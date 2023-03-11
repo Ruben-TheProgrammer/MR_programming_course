@@ -1,0 +1,11 @@
+
+C:\>cd xampp
+
+C:\xampp>cd php
+
+C:\xampp\php>php.exe -v
+PHP 8.1.2 (cli) (built: Jan 19 2022 10:18:23) (ZTS Visual C++ 2019 x64)
+Copyright (c) The PHP Group
+Zend Engine v4.1.2, Copyright (c) Zend Technologies
+
+C:\xampp\php>

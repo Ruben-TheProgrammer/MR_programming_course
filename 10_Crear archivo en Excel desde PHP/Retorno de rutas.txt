@@ -1,0 +1,5 @@
+C:\Users\HP>cd..
+
+C:\Users>cd..
+
+C:\>
